@@ -1,0 +1,62 @@
+[
+    {
+        "name": "player",
+        "colour": "#00aa00",
+        "class": "rank_0"
+    },
+    {
+        "name": "iron",
+        "colour": "#aaaaaa",
+        "class": "rank_1"
+    },
+    {
+        "name": "gold",
+        "colour": "#ffaa00",
+        "class": "rank_2"
+    },
+    {
+        "name": "diamond",
+        "colour": "#00aaaa",
+        "class": "rank_3"
+    },
+    {
+        "name": "platinum",
+        "colour": "#55ffff",
+        "class": "rank_4"
+    },
+    {
+        "name": "quantum",
+        "colour": "#55ff55",
+        "class": "rank_5"
+    },
+    {
+        "name": "friend",
+        "colour": "#ff55ff",
+        "class": "rank_101"
+    },
+    {
+        "name": "vip",
+        "colour": "#aa00aa",
+        "class": "rank_102"
+    },
+    {
+        "name": "moderator",
+        "colour": "#ff5555",
+        "class": "rank_103"
+    },
+    {
+        "name": "senior_moderator",
+        "colour": "#aa0000",
+        "class": "rank_104"
+    },
+    {
+        "name": "administrator",
+        "colour": "#aa0000",
+        "class": "rank_105"
+    },
+    {
+        "name": "developer",
+        "colour": "#ab0000",
+        "class": "rank_106"
+    }
+]

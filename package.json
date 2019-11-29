@@ -1,0 +1,17 @@
+{
+  "name": "xime-api",
+  "version": "2.0.5",
+  "description": "Xime API wrapper for interacting with the MCGamer Network administrator panel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "speakeasy": "^2.0.0"
+  }
+}
