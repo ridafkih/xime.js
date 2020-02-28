@@ -5,7 +5,7 @@ Xime API wrapper for interacting with the MCGamer's Moderator API Panel
 #### Simple Example Usage
 ```js
 const Xime = require('xime.js'),
-      panel = new Xime.Client(true); // passing "true" as a parameter bypasses 2FA for the account.
+      panel = new Xime.Panel(true); // passing "true" as a parameter bypasses 2FA for the account.
       
 panel.on('ready', () => {
       panel.search.user("ChadTheDJ").then(console.log);
